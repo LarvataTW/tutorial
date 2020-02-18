@@ -9,7 +9,7 @@
 收集過濾優質的教程來使用，而不用重造輪子，
 應該是更有效率的作法。
 
-```
+```text
 $ give me super-powers
 ```
 
@@ -33,7 +33,7 @@ git push origin fix-something
 
 # 基本要求
 
-* 英文打字速度要在 http://10fastfingers.com/typing-test/english 突破 200 以上的 Keystrokes。
+* 英文打字速度要在 [http://10fastfingers.com/typing-test/english](http://10fastfingers.com/typing-test/english) 突破 200 以上的 Keystrokes。
 * 作業、練習環境是 Linux 或 Mac 系統，如果是 Windows 請使用 VirtualBox 安裝 Ubuntu 作業系統進行學習。
 
 # 基礎課程
@@ -61,15 +61,13 @@ https://serversforhackers.com/series
 
 # 程式設計 Programming
 
-## "SQL 語法練習":https://leetcode.com/problemset/database/
-
 ## "PHP":https://www.codecademy.com/learn/php
 
-PHP 基礎語法 http://campus.codeschool.com/courses/try-php
-PHP 基礎介紹 http://www.imooc.com/view/54
-PHP 錯誤與異常處理 http://www.imooc.com/learn/380
-PHP 高維護性 http://www.slideshare.net/appleboy/maintainable-php-source-project-13712190
-PHP 之道 https://leanpub.com/phptherightway/read
+* PHP 基礎語法 http://campus.codeschool.com/courses/try-php
+* PHP 基礎介紹 http://www.imooc.com/view/54
+* PHP 錯誤與異常處理 http://www.imooc.com/learn/380
+* PHP 高維護性 http://www.slideshare.net/appleboy/maintainable-php-source-project-13712190
+* PHP 之道 https://leanpub.com/phptherightway/read
 
 ## "Ruby":https://www.codecademy.com/learn/ruby
 
@@ -77,7 +75,9 @@ PHP 之道 https://leanpub.com/phptherightway/read
 
 ## "MVC 程式設計":http://www.imooc.com/learn/69
 
-## 開發框架 Frameworks
+## "SQL 語法練習":https://leetcode.com/problemset/database/
+
+# Frameworks
 
 WordPress / Bedrock
 Laravel
@@ -88,11 +88,12 @@ Rails
 Ansible
 Capistrano
 
-# 資訊安全 Security
+# Security
 
 SQL Injection
 "XSS":https://www.owasp.org/index.php/Cross-Site_Scripting
 "CSRF":https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)
+
 
 # Mobile App
 
