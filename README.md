@@ -32,16 +32,14 @@ git push origin fix-something
 # 基本要求
 
 * 英文打字速度要在 [http://10fastfingers.com/typing-test/english](http://10fastfingers.com/typing-test/english) 突破 200 以上的 Keystrokes。
-* 作業、練習環境是 Linux 或 Mac 系統，如果是 Windows 請使用 VirtualBox 安裝 Ubuntu 作業系統進行學習。
+* 作業環境是 Ubuntu 或 Mac，如果是 Windows 請使用 VirtualBox 安裝 Ubuntu 作業系統進行學習。
 
 # 基礎課程
 
 ## 環境設定
 
-系統性教材
-
-https://launchschool.com/books *第一、第二必讀*
-https://serversforhackers.com/series
+* https://launchschool.com/books *第一、第二必讀*
+* https://serversforhackers.com/series
 
 ## 作業系統
 
@@ -59,44 +57,53 @@ https://serversforhackers.com/series
 
 # 程式設計 Programming
 
-## "PHP":https://www.codecademy.com/learn/php
+## PHP
 
+* https://www.codecademy.com/learn/php
 * PHP 基礎語法 http://campus.codeschool.com/courses/try-php
 * PHP 基礎介紹 http://www.imooc.com/view/54
 * PHP 錯誤與異常處理 http://www.imooc.com/learn/380
 * PHP 高維護性 http://www.slideshare.net/appleboy/maintainable-php-source-project-13712190
 * PHP 之道 https://leanpub.com/phptherightway/read
 
-## "Ruby":https://www.codecademy.com/learn/ruby
+## Ruby
 
-## "正規表示法":http://www.imooc.com/learn/350
+https://www.codecademy.com/learn/ruby
 
-## "MVC 程式設計":http://www.imooc.com/learn/69
+## 正規表示法
 
-## "SQL 語法練習":https://leetcode.com/problemset/database/
+http://www.imooc.com/learn/350
+
+## MVC 程式設計
+
+http://www.imooc.com/learn/69
+
+## SQL 語法練習
+
+https://leetcode.com/problemset/database/
 
 # Frameworks
 
-WordPress / Bedrock
-Laravel
-Rails
+* WordPress / Bedrock
+* Laravel
+* Rails
 
 # DevOps
 
-Ansible
-Capistrano
+* Ansible
+* Capistrano
 
 # Security
 
-SQL Injection
-"XSS":https://www.owasp.org/index.php/Cross-Site_Scripting
-"CSRF":https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)
+* SQL Injection
+* XSS https://www.owasp.org/index.php/Cross-Site_Scripting
+* CSRF https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)
 
 
 # Mobile App
 
-"iOS Human Interface Guidelines":https://developer.apple.com/ios/human-interface-guidelines/overview/design-principles/
-"Material Design for Android":https://developer.android.com/design/material/index.html
+* iOS Human Interface Guidelines https://developer.apple.com/ios/human-interface-guidelines/overview/design-principles/
+* Material Design for Android https://developer.android.com/design/material/index.html
 
 # UI/UX
 
