@@ -25,6 +25,7 @@
 
 * [WordPress](framework/wordpress.md)
 * [Laravel](framework/laravel.md)
+* [Yii](framework/yii.md)
 * [Rails](framework/rails.md)
 
 ## Mobile
