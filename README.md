@@ -7,34 +7,63 @@
 公司畢竟不是學校，或專門做培訓的教學機構，
 因此收集過濾網路上優質的教程來使用，而不用重造輪子，應該是更有效率的作法。
 
-```text
-$ give me super-powers
-```
-
 {% hint style="info" %}
 此文件主要根據敝公司實際需求編寫，但基本的資訊技能要求在業界相信都是互通的。   
 文件內容不足或錯誤處，請不吝提供反饋或發送修正 PR (Pull Request)，萬分感激！
 {% endhint %}
 
-Once you're strong enough, save the world:
-
-{% code title="fix.sh" %}
-```bash
-git checkout -b fix-something
-# Do some editing
-git add .
-git commit -v .
-git push origin fix-something
-# Create a PR for this project
-```
-{% endcode %}
-
 # 基本要求
 
+* 英文閱讀能力在中等以上，因為許多資料或影片字幕都是英文內容。
 * 英文打字速度要在 [http://10fastfingers.com/typing-test/english](http://10fastfingers.com/typing-test/english) 突破 200 以上的 Keystrokes。
 * 作業環境是 Ubuntu 或 Mac，如果是 Windows 請使用 VirtualBox 安裝 Ubuntu 作業系統進行學習。
 
-# 基礎課程
+## 常識課程
+
+* [環境設定](general/environment.md)
+* [作業系統](general/linux.md)
+* [編輯器](general/editor.md)
+* [網路運作](general/network.md)
+* [網站架構](general/website.md)
+
+## 基礎工具
+
+* [Git](tools/git.md)
+* [Docker](tools/docker.md)
+
+## 程式設計
+
+* [常識](programming/common.md)
+* [PHP](programming/php.md)
+* [Python](programming/python.md)
+* [Ruby](programming/ruby.md)
+* [Golang](programming/golang.md)
+
+## Frameworks
+
+* [WordPress](framework/wordpress.md)
+* [Laravel](framework/laravel.md)
+* [Rails](framework/rails.md)
+
+## Mobile
+
+* [iOS](mobile/ios.md)
+* [Android](mobile/android.md)
+
+## UI/UX
+
+* Wireframe
+
+## DevOps
+
+* Security
+* Backup
+* Ansbile
+* Packer
+* Terraform
+* Plesk
+
+---
 
 ## 環境設定
 
