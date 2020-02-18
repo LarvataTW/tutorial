@@ -21,12 +21,21 @@
 * [Ruby](programming/ruby.md)
 * [Golang](programming/golang.md)
 
+## DevOps
+
+* [Security](devops/security.md)
+* [Backup](devops/backup.md)
+* [Ansbile](devops/ansible.md)
+* [Packer](devops/packer.md)
+* [Terraform](devops/terraform.md)
+* [Plesk](devops/plesk.md)
+
 ## Frameworks
 
-* [WordPress](framework/wordpress.md)
+* [Rails](framework/rails.md)
 * [Laravel](framework/laravel.md)
 * [Yii](framework/yii.md)
-* [Rails](framework/rails.md)
+* [WordPress](framework/wordpress.md)
 
 ## Mobile
 
@@ -36,12 +45,3 @@
 ## UI/UX
 
 * [Wireframe](ui/wireframe.md)
-
-## DevOps
-
-* [Security](devops/security.md)
-* [Backup](devops/backup.md)
-* [Ansbile](devops/ansible.md)
-* [Packer](devops/packer.md)
-* [Terraform](devops/terraform.md)
-* [Plesk](devops/plesk.md)

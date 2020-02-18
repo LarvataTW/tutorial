@@ -17,3 +17,14 @@
 * 英文閱讀能力在中等以上，因為許多資料或影片字幕都是英文內容。
 * 英文打字速度要在 [http://10fastfingers.com/typing-test/english](http://10fastfingers.com/typing-test/english) 突破 200 以上的 Keystrokes。
 * 作業環境是 Ubuntu 或 Mac，如果是 Windows 請使用 VirtualBox 安裝 Ubuntu 作業系統進行學習。
+
+---
+
+# 待整理
+
+https://www.youtube.com/user/blue524326/playlists
+https://www.youtube.com/user/mmumshad/playlists
+https://sqlbolt.com/
+
+https://youtu.be/zJ6WbK9zFpI
+https://youtu.be/4ht22ReBjno
