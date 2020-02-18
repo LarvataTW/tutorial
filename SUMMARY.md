@@ -34,13 +34,13 @@
 
 ## UI/UX
 
-* Wireframe
+* [Wireframe](ui/wireframe.md)
 
 ## DevOps
 
-* Security
-* Backup
-* Ansbile
-* Packer
-* Terraform
-* Plesk
+* [Security](devops/security.md)
+* [Backup](devops/backup.md)
+* [Ansbile](devops/ansible.md)
+* [Packer](devops/packer.md)
+* [Terraform](devops/terraform.md)
+* [Plesk](devops/plesk.md)
