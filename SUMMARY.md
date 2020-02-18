@@ -26,13 +26,13 @@
 * [Laravel](README.md)
 * [Rails](README.md)
 
-* [DevOps](README.md)
+### DevOps
 
-* [Security](README.md)
+### Security
 
 ### Mobile
 
 * [iOS](README.md)
 * [Android](README.md)
 
-* UI/UX
+### [UI/UX](README.md)
