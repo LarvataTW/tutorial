@@ -50,10 +50,8 @@ git-flow 的實現有輔助的工具，它其實是一連串的 git 指令組合
 
 因為 git-flow 的自動補齊 (auto-compeletion) 跟 git 自帶的有衝突，因此 git 安裝的時候要拿掉它自帶的補齊功能。
 
-<pre>
-$ brew uninstall git
-$ brew install git --without-completions
-</pre>
+    $ brew uninstall git
+    $ brew install git --without-completions
 
 在 macOS 的 Homebrew 安裝的 git 裡面有自帶的 auto completions 會跟 git flow auto completions 衝突，
 因此需要額外處理：
