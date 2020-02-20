@@ -7,10 +7,10 @@
 公司畢竟不是學校，或專門做培訓的教學機構，
 因此收集過濾網路上優質的教程來使用，而不用重造輪子，應該是更有效率的作法。
 
-{% hint style="info" %}
+{% hint style="info" %}   
 此文件主要根據敝公司實際需求編寫，但基本的資訊技能要求在業界相信都是互通的。   
-文件內容不足或錯誤處，請不吝提供反饋或發送修正 PR (Pull Request)，萬分感激！
-{% endhint %}
+文件內容不足或錯誤處，請不吝提供反饋或發送修正 PR (Pull Request)，萬分感激！   
+{% endhint %}   
 
 # 基本要求
 
@@ -22,9 +22,9 @@
 
 # 待整理
 
-https://www.youtube.com/user/blue524326/playlists
-https://www.youtube.com/user/mmumshad/playlists
-https://sqlbolt.com/
+https://www.youtube.com/user/blue524326/playlists   
+https://www.youtube.com/user/mmumshad/playlists   
+https://sqlbolt.com/   
 
-https://youtu.be/zJ6WbK9zFpI
-https://youtu.be/4ht22ReBjno
+https://youtu.be/zJ6WbK9zFpI   
+https://youtu.be/4ht22ReBjno   

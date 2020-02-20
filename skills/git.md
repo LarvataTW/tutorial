@@ -55,3 +55,9 @@ h2. .gitignore
 
 http://www.html-js.com/article/The-GitHub-TipsGitignore
 https://github.com/github/gitignore
+
+
+## git https passwords
+
+https://help.github.com/en/github/using-git/caching-your-github-password-in-git
+https://help.github.com/en/github/using-git/updating-credentials-from-the-osx-keychain

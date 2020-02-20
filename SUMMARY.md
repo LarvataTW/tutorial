@@ -10,10 +10,10 @@
 * [網路運作](general/network.md)
 * [網站架構](general/website.md)
 
-## 基礎工具
+## 基礎技能
 
-* [Git](tools/git.md)
-* [Docker](tools/docker.md)
+* [Git](skills/git.md)
+* [Docker](skills/docker.md)
 
 ## 程式設計
 
