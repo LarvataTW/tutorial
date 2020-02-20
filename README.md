@@ -37,9 +37,27 @@
 建議申請工作專用帳號。
 
 * Discord
+  - pin message
+  - mention
+  - voice
+  - share screen
+  - ...
 * Line
+  - mention
+  - voice
+  - notes
+  - group vote
+  - ...
 * Telegram
+  - mention
+  - voice
+  - ...
 * Skype
+  - mention
+  - voice / mute
+  - video / turn off video
+  - share screen
+  - ...
 
 ## 遠端協同
 
