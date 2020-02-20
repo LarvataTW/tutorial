@@ -22,6 +22,7 @@
 
 - Google Chrome
 - Firefox
+- Safari
 
 # 工作通訊
 
