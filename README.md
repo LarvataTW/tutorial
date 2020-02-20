@@ -18,25 +18,35 @@
 * 英文打字速度要在 [http://10fastfingers.com/typing-test/english](http://10fastfingers.com/typing-test/english) 突破 200 以上的 Keystrokes。
 * 作業環境是 Ubuntu 或 Mac，如果是 Windows 請使用 VirtualBox 安裝 Ubuntu 作業系統進行學習。
 
+# 瀏覽器
+
+- Google Chrome
+- Firefox
+
 # 工作通訊
+
+## E-mail
+
+* Gmail (Google Drive 協作需要)
+* Gmail Notification
+
+## 即時訊息
 
 因為工作需要，團隊內或跟客戶之間，需要用線上通訊軟體溝通。
 建議務必熟悉以下通訊工具，如果個人需要嚴格區分工作與生活，
 建議申請工作專用帳號。
 
-* Gmail (Google Drive 協作需要)
 * Discord
 * Line
 * Telegram
 * Skype
 
-遠端桌面工具
+## 遠端協同
 
 * Google Remote Desktop
 * Windows Remote Desktop
 * TeamViewer
 * Zoom
-* VNC
 
 ---
 
