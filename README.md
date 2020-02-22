@@ -1,4 +1,4 @@
-# 關於
+# 關於(#about)
 
 這份文件要說是教育訓練手冊、就職手冊、員工訓練、自我學習教程，都可以。   
 目的是通過完成此文件安排的學習內容，訓練讀者成為一位具有基本職業素養的資訊產業工作者。
@@ -12,26 +12,32 @@
 文件內容不足或錯誤處，請不吝提供反饋或發送修正 PR (Pull Request)，萬分感激！   
 {% endhint %}   
 
-# 基本要求
+## 啟發(#inspiration)
+
+https://steamcdn-a.akamaihd.net/apps/valve/Valve_NewEmployeeHandbook.pdf
+http://media.steampowered.com/apps/valve/hbook-SCH.pdf
+
+
+# 基本要求(#prerequisites)
 
 * 英文閱讀能力在中等以上，因為許多資料或影片字幕都是英文內容。
 * 英文打字速度要在 [http://10fastfingers.com/typing-test/english](http://10fastfingers.com/typing-test/english) 突破 200 以上的 Keystrokes。
 * 作業環境是 Ubuntu 或 Mac，如果是 Windows 請使用 VirtualBox 安裝 Ubuntu 作業系統進行學習。
 
-# 瀏覽器
+# 瀏覽器(#browsers)
 
 - Google Chrome
 - Firefox
 - Safari
 
-# 工作通訊
+# 工作通訊(#communication)
 
-## E-mail
+## 電子郵件(#email)
 
 * Gmail (Google Drive 協作需要)
 * Gmail Notification
 
-## 即時訊息
+## 即時訊息(#instant-messages)
 
 因為工作需要，團隊內或跟客戶之間，需要用線上通訊軟體溝通。
 建議務必熟悉以下通訊工具，如果個人需要嚴格區分工作與生活，
@@ -60,14 +66,12 @@
   - share screen
   - ...
 
-## 遠端協同
+## 遠端協同(#remote-control)
 
 * Google Remote Desktop
 * Windows Remote Desktop
 * TeamViewer
 * Zoom
-
----
 
 # 待整理
 
@@ -77,3 +81,7 @@ https://sqlbolt.com/
 
 https://youtu.be/zJ6WbK9zFpI   
 https://youtu.be/4ht22ReBjno   
+
+# 參考資料(#references)
+
+[1]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
