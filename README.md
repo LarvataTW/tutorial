@@ -24,6 +24,12 @@ http://media.steampowered.com/apps/valve/hbook-SCH.pdf
 * 英文打字速度要在 [http://10fastfingers.com/typing-test/english](http://10fastfingers.com/typing-test/english) 突破 200 以上的 Keystrokes。
 * 作業環境是 Ubuntu 或 Mac，如果是 Windows 請使用 VirtualBox 安裝 Ubuntu 作業系統進行學習。
 
+## 資訊素養
+
+* 能夠理解什麼是全型空白、半型空白。
+* 可以區分全型逗號、半型逗號。
+* 中文字元跟半型英文字元之前使用半型空白區隔，特別是在陳述 URL 時。
+
 # [ 瀏覽器 ](#browsers)
 
 - Google Chrome
