@@ -2,7 +2,7 @@
 
 * [教育訓練](README.md)
 
-## 常識課程
+## 基礎課程
 
 * [環境設定](general/environment.md)
 * [作業系統](general/linux.md)
@@ -10,7 +10,7 @@
 * [網路運作](general/network.md)
 * [網站架構](general/website.md)
 
-## 基礎技能
+## 必備技能
 
 * [Git](skills/git.md)
 * [Docker](skills/docker.md)
